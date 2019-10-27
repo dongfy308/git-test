@@ -6,5 +6,6 @@ public class GitDemo01 {
     }
     public void test(){
         System.out.println(123123);
+        System.out.println(12222222);
     }
 }
